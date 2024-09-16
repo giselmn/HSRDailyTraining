@@ -1,0 +1,32 @@
+.ticket-box {
+    position: relative;
+    left: -700px;
+    top: 80px;
+    width: 300px; /* Adjust the width to match the size of your ticket image */
+    margin: 20px auto;
+  }
+  
+  .ticket-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .ticket-info {
+    position: absolute;
+    top: 10%; /* Adjust positioning based on your image layout */
+    left: 10%;
+    width: 80%;
+    color: black;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .training-name {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .commission-details {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
